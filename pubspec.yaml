@@ -1,6 +1,6 @@
 name: flutter_filterable_search
 description: "a powerful and highly customizable Flutter widget designed to facilitate efficient search operations on large lists of objects."
-version: 0.0.2
+version: 0.0.1
 homepage:
 
 environment:

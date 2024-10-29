@@ -1,8 +1,19 @@
+
+[![pub package](https://img.shields.io/pub/v/flutter_html.svg)](https://pub.dev/packages/flutter_filterable_search)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Sub6Resources/flutter_html/blob/master/LICENSE)
+
+
+
 # flutter_filterable_search
 
 `flutter_filterable_search` is a powerful and highly customizable Flutter widget designed to facilitate efficient search operations on large lists of objects. This plugin converts your objects to strings and searches through all properties inside each object, allowing for advanced filtering capabilities. It integrates real-time search functionality that empowers users to quickly and easily find the information they need. Whether you're working with contact lists, product catalogs, or any data-intensive application, `flutter_filterable_search` streamlines the search experience.
 
 With this widget, users can implement real-time search functionality that updates results as they type. Additionally, the widget allows users to apply multiple filtering options using filter chips, enhancing the overall usability and efficiency of your application.
+
+
+![](https://raw.githubusercontent.com/tazik561/FlutterFilterableSearch/master/src/android.gif?raw=true)
+![](https://raw.githubusercontent.com/tazik561/FlutterFilterableSearch/master/src/ios.gif?raw=true)
+![](https://raw.githubusercontent.com/tazik561/FlutterFilterableSearch/master/src/web.gif?raw=true)
 
 ## Features
 
@@ -22,7 +33,7 @@ To use `flutter_filterable_search` in your project, follow these steps:
 
     ```yaml
     dependencies:
-      flutter_filterable_search: ^0.0.2
+      flutter_filterable_search: ^0.0.1
     ```
 
 2. Fetch the package using the following command:
@@ -258,7 +269,7 @@ Contributions to `flutter_filterable_search` are welcome! If you want to contrib
 2. **Clone your fork**: Use the following command to clone your fork to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/flutter_filterable_search.git
+   https://github.com/tazik561/FlutterFilterableSearch.git
 
 3. **Create a new branch**: Create a new branch for your feature or bug fix:
    ```bash
